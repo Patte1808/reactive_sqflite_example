@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'TodoProvider.dart';
-import 'dart:async';
+import 'todo_provider.dart';
 
 void main() => runApp(new MyApp());
 
